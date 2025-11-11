@@ -1,0 +1,23 @@
+{
+  "subtitle": "Fast-track hiring · 15-day SLA",
+  "kpis": {
+    "openRoles": { "value": 24, "delta": "+5%" },
+    "avgTimeToHireDays": { "value": 10, "delta": "-12%" },
+    "pipelineActive": { "value": 112, "delta": "+8%" },
+    "offerAcceptance": { "value": "86%", "delta": "+3%" }
+  },
+  "recentRequisitions": [
+    { "title": "Frontend Engineer", "department": "Engineering", "status": "Open", "openDate": "2025-10-01" },
+    { "title": "QA Analyst", "department": "Quality", "status": "Draft", "openDate": "2025-09-28" },
+    { "title": "HR Generalist", "department": "HR", "status": "Pending", "openDate": "2025-09-25" }
+  ],
+  "recentActivity": [
+    "Priya Rao accepted Offer · Sep 22, 2025",
+    "Interview scheduled for Meera Joshi · Sep 23, 2025",
+    "New requisition submitted for Backend Engineer"
+  ]
+}
+
+
+
+

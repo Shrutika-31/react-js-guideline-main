@@ -1,0 +1,17 @@
+{
+  "jobLevels": [
+    { "value": "Intern", "label": "Intern", "range": "0 yrs" },
+    { "value": "Fresher", "label": "Fresher", "range": "0–1 yrs" },
+    { "value": "Mid Level", "label": "Mid Level", "range": "2–5 yrs" },
+    { "value": "Senior", "label": "Senior", "range": "6–10 yrs" },
+    { "value": "Solution Architect", "label": "Solution Architect", "range": "10+ yrs" },
+    { "value": "Manager", "label": "Manager", "range": "5+ yrs" }
+  ],
+  "jobTypes": ["Full-time", "Part-time", "Contract", "Internship"],
+  "priorities": ["High", "Medium", "Low"],
+  "positionTypes": ["New", "Replacement"]
+}
+
+
+
+
